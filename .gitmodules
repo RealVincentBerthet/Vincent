@@ -1,0 +1,36 @@
+[submodule "Binaries"]
+	path = Binaries
+	url = https://github.com/RealVincentBerthet/Binaries.git
+[submodule "Private"]
+	path = Private
+	url = https://github.com/RealVincentBerthet/Private.git
+[submodule "Dev/LunaAndHelios"]
+	path = Dev/LunaAndHelios
+	url = https://github.com/RealVincentBerthet/LunaAndHelios.git
+[submodule "Dev/vberthet"]
+	path = Dev/vberthet
+	url = https://github.com/RealVincentBerthet/vberthet.git
+[submodule "Dev/HDR"]
+	path = Dev/HDR
+	url = https://github.com/RealVincentBerthet/HDR.git
+[submodule "Dev/AsymetrieICP"]
+	path = Dev/AsymetrieICP
+	url = https://github.com/RealVincentBerthet/AsymetrieICP.git
+[submodule "Dev/dbIndexing"]
+	path = Dev/dbIndexing
+	url = https://github.com/RealVincentBerthet/dbIndexing.git
+[submodule "Dev/Ray"]
+	path = Dev/Ray
+	url = https://github.com/RealVincentBerthet/Ray.git
+[submodule "Dev/Kubic"]
+	path = Dev/Kubic
+	url = https://github.com/RealVincentBerthet/Kubic.git
+[submodule "Dev/Animation"]
+	path = Dev/Animation
+	url = https://github.com/RealVincentBerthet/Animation.git
+[submodule "Dev/GoL"]
+	path = Dev/GoL
+	url = https://github.com/RealVincentBerthet/GoL.git
+[submodule "Dev/MDI_Docker"]
+	path = Dev/MDI_Docker
+	url = https://github.com/RealVincentBerthet/MDI_Docker.git
