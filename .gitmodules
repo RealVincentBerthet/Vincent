@@ -1,9 +1,6 @@
 [submodule "Binaries"]
 	path = Binaries
 	url = https://github.com/RealVincentBerthet/Binaries.git
-[submodule "Private"]
-	path = Private
-	url = https://github.com/RealVincentBerthet/Private.git
 [submodule "Dev/LunaAndHelios"]
 	path = Dev/LunaAndHelios
 	url = https://github.com/RealVincentBerthet/LunaAndHelios.git
