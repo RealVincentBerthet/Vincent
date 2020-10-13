@@ -31,3 +31,6 @@
 [submodule "Dev/MDI_Docker"]
 	path = Dev/MDI_Docker
 	url = https://github.com/RealVincentBerthet/MDI_Docker.git
+[submodule "Dev/github-api"]
+	path = Dev/github-api
+	url = https://github.com/RealVincentBerthet/github-api.git
