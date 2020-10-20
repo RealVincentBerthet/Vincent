@@ -34,3 +34,6 @@
 [submodule "Dev/github-api"]
 	path = Dev/github-api
 	url = https://github.com/RealVincentBerthet/github-api.git
+[submodule "Dev/AsciiArt"]
+	path = Dev/AsciiArt
+	url = https://github.com/RealVincentBerthet/AsciiArt.git
