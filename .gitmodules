@@ -37,3 +37,9 @@
 [submodule "Dev/AsciiArt"]
 	path = Dev/AsciiArt
 	url = https://github.com/RealVincentBerthet/AsciiArt.git
+[submodule "Dev/AR"]
+	path = Dev/AR
+	url = https://github.com/RealVincentBerthet/AR.git
+[submodule "Dev/jekyll"]
+	path = Dev/jekyll
+	url = https://github.com/RealVincentBerthet/jekyll.git
